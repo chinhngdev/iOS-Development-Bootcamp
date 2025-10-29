@@ -1,6 +1,8 @@
 # The Ultimate 70+ Hours iOS Development Bootcamp
 
 **[Course Link](https://www.udemy.com/course/the-ultimate-60-hours-ios-development-bootcamp/)**
+**Instructor:** Mohammad Azam
+**X/Twitter:** [@azamsharp](https://x.com/azamsharp)
 
 ## What You'll Learn
 
